@@ -1,0 +1,1 @@
+(ns aoc.2024.day.one.historian-hysteria)
